@@ -145,7 +145,7 @@ body {
     content: "\e90e";
 }
 
-.menu-lateral__link--picos::before {
+.menu-lateral__link--titulos::before {
     content: "\e909";
 }
 
